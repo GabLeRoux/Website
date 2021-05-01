@@ -182,6 +182,17 @@
               "type": "file"
             }
           },
+          "remote-builder": {
+            "name": "Remote builder",
+            "meta": {
+              "version": "v2",
+              "absolutePath": "github/v2/06-remote-builder.md",
+              "permalinkPath": "github/v2/remote-builder",
+              "path": "github/remote-builder",
+              "order": 6,
+              "type": "file"
+            }
+          },
           "deployment": {
             "meta": {
               "path": "github/deployment",
@@ -300,24 +311,6 @@
           "absolutePath": "gitlab/tests.md",
           "permalinkPath": "gitlab/tests",
           "path": "gitlab/tests",
-          "order": 99,
-          "type": "file"
-        }
-      }
-    },
-    "travis": {
-      "meta": {
-        "path": "travis",
-        "order": 99,
-        "type": "folder"
-      },
-      "getting-started": {
-        "name": "Getting started",
-        "meta": {
-          "version": null,
-          "absolutePath": "travis/getting-started.md",
-          "permalinkPath": "travis/getting-started",
-          "path": "travis/getting-started",
           "order": 99,
           "type": "file"
         }
